@@ -7,8 +7,8 @@ import Student from './component/Student/Student';
 function App() {
   return (
     <div className="App">
-      {/* <Home/> */}
-<Student/>
+      <Home/>
+{/* <Student/> */}
 
     </div>
   );
